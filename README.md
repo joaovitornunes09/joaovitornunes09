@@ -1,4 +1,4 @@
-## Olá!, Eu sou o João Vitor e sou um Full Stack Developer Jr 
+## Hello!, I'm João Vitor and I'm a Full Stack Developer 
 <div align="center">
   <a href="https://github.com/joaovitornunes09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitornunes09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,6 +26,6 @@
   <a href="mailto:jvitornunes09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Make with :heart: and JavaScript.</p>
 </div>
 
