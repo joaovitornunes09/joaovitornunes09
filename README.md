@@ -26,6 +26,6 @@
   <a href="mailto:jvitornunes09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
-  <p>Make with :heart: and JavaScript.</p>
+  <p>Made with :heart: and JavaScript.</p>
 </div>
 
