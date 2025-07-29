@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovitornunes09&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="JV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JV-Js" height="30" width="40" src="https://images.icon-icons.com/2415/PNG/512/javascript_plain_logo_icon_146454.png">
   <img align="center" alt="JV-Js" height="30" width="40" src="https://github.com/jquery.png?s=20"">
   <img align="center" alt="JV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
